@@ -1,6 +1,6 @@
 # React_native_movies_app 
 This is a hybrid mobile app. you can run it on IOS and Android. it's a project of my 2nd year of engineering.<br><br>  
-<h1>--APP Features.--</h1><br> 
+<h1>--APP Features--</h1><br> 
 
 -------<h2>HOME PAGE</h2><br> 
 -Movie poster with IMDB Rating. 
